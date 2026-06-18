@@ -28,7 +28,7 @@ const illustration = {
 };
 
 const greeting = {
-  username: "Karthikeyan L N R",
+  username: "K3KN",
   title: "Hi all, I'm Karthikeyan",
   subTitle: emoji(
     "Computer Science Student passionate about Data Analytics, Business Intelligence, and building data-driven solutions using Power BI, SQL, Python, and modern analytics tools."
@@ -37,7 +37,6 @@ const greeting = {
     "https://drive.google.com/file/d/1xe60M-_cGlf0-tDSdqba7QkZpLS9iqEW/view?usp=drive_link", // Set to empty to hide the button
   displayGreeting: true // Set false to hide this section, defaults to true
 };
-
 // Social Media Links
 
 const socialMediaLinks = {
